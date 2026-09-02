@@ -1,0 +1,17 @@
+# Android Studio / Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Keystores and Secrets (CRITICAL)
+*.jks
+*.keystore
+google-services.json
+
+# IDE Settings
+.idea/
+*.iml
+.DS_Store
